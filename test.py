@@ -8,7 +8,7 @@ from main import (
 )
 
 # === 2. 参数 ===
-ROAD_FOLDER = "/Users/hanbing/tari/road_data/data"
+ROAD_FOLDER = "data"
 ACTOR_WEIGHTS = "multi_road_ddpg_actor_5sec.weights.h5"
 CRITIC_WEIGHTS= "multi_road_ddpg_critic_5sec.weights.h5"
 TIME_STEP     = 0.1
